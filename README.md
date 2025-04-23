@@ -15,18 +15,6 @@
   </tr>
 </table>
 
-## Table of contents
-
-* [Features](#features)
-* [ScreenShots](#screenshots)
-  - [User Side](#user-side)
-  - [Admin Side](#admin-side)
-* [Steps to install](#steps)
-* [Project Overview](#project-overview)
-* [Technology Stack](#technology-stack)
-* [Collaborate with us](#collaborate-with-us)
-* [Bug / Feature Request](#bug--feature-request)
-
 ### Features
 - Fully Functional Admin Panel
 - Quiz Website with awesome UI
@@ -180,8 +168,3 @@ To fix a bug or enhance an existing module, follow these steps:
 - Create a Pull Request 
   
  
-### Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iamrohitsuthar/quizller/issues/new).
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iamrohitsuthar/quizller/issues/new).
